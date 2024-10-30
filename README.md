@@ -30,7 +30,7 @@ $ ros2 launch arm_gazebo arm_gazebo.launch.py
 $ ./docker_connect.sh 
 
 
-- Once the terminal is connected is possible :
+Once the terminal is connected is possible :
 
 - start arm_controller_node, in order to observe the current position of the robot or the points through which it passes before reaching a position, with:
 
