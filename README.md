@@ -49,3 +49,4 @@ $ ros2 topic pub --once /position_controller/commands std_msgs/msg/Float64MultiA
 with <jo> that can be between [-2.57,2.57]
 while <j1>,<j2>,<j3> between [3.14,3.14]
 
+- To use the optional version, rename the file arm.urdf.opzionale.xacro as "arm.urdf.xacro", and remove the other one
